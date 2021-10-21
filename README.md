@@ -6,6 +6,11 @@ You can't find your files after you saved them, or you don't know how to name th
 
 File-List is a software students first proyect where we pretend to help you out saving your importante files in the best way possible.
 
+# The problem
+52.3%%de los encuestados define que ha tenido problemas al encontrar un documento despueés de haberlo guardado, y el 93.1% de la población encuestada menciona que conoce a alguien a la que le sucede que pierde sus documentos después de guardarlos. El 73.9% no sabe como nombrar sus archivos para guardarlos.
+
+Dado lo evaluado previamente en la encuesta, el 91.3% de la población considera que un programa que lo ayude con la organización de sus archivos puede ser una buena alternativa para ayudarlos a solucionar su problema o el de sus conocidos.
+
 # Objetive of our software proyect
 Organize in a clear, orderly and efficient way the documents and files of a user as required by means of a software system as an extension to their file explorer.
 1. Systematize the user's document search processes through the software interface. 
