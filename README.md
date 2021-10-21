@@ -28,7 +28,7 @@ Our work team is conformed by 6 students of the first semester of software engin
 
 # First part of the project
 ## Results of the questionnaire 
-Rirst we had to know some things about people behavior related on how they save their files in their computer, so we decided to create a questionnaire and those are the results:
+First we had to know some things about people behavior related on how they save their files in their computer, so we decided to create a questionnaire and those are the results (The questionnaire were pretty usuful at defining the problem in population, and after that we decided to prepare this project):
 [Questionnaire](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega1/RESPUESTAS%20DEL%20CUESTONARIO.pdf)
 
 ## The description of the app
