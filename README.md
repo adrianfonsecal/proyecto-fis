@@ -7,6 +7,8 @@ You can't find your files after you saved them, or you don't know how to name th
 File-List is a software students first proyect where we pretend to help you out saving your importante files in the best way possible.
 
 # The problem
+El problema detectado en la comunidad estudiantil y de oficinas es el mal manejo de los archivos previamente y posterior al guardado del mismo. Hasta el momento solo se consideraba un problema, pero no estaba formalmente documentado, por lo que decidimo elaborar una encuesta en donde visualizamos los siguientes resultaos (Los resultados completos de dicha encuesta se encuentran en la sección de resultados del cuestionario):
+
 52.3% de los encuestados define que ha tenido problemas al encontrar un documento despueés de haberlo guardado, y el 93.1% de la población encuestada menciona que conoce a alguien a la que le sucede que pierde sus documentos después de guardarlos. El 73.9% no sabe como nombrar sus archivos para guardarlos.
 
 Dado lo evaluado previamente en la encuesta, el 91.3% de la población considera que un programa que lo ayude con la organización de sus archivos puede ser una buena alternativa para ayudarlos a solucionar su problema o el de sus conocidos.
