@@ -1,0 +1,6 @@
+# Las competencias de la asignatura.
+Durante el desarrollo de esta primera entregar se fueron retomando conceptos de clases pasadas para poder comenzar con el desarrollo de este primer proyecto relacionado con la carrera de Ingeniería de Software.
+Los conceptos vinculados con las fases de requisitos, diseño, desarrollo, pruebas y mantenimiento forman parte de las competencias de la asignatura. Retomándose y aplicando ya en este proyecto conceptos como el de los RF y los RNF, dándole un sentido al perfil de los usuarios; diferenciando a los clientes de los usuarios y conociendo ahora a los usuarios primarios y secundarios que forman parte en específico de nuestro proyecto de software.
+
+De igual manera se hace uso de herramientas externas de apoyo como son las encuestas digitales a personas para poder con ello conocer sus puntos de vista sobre el camino del proyecto para orientarlo de mejor manera y con ello poder alcanzar un mercado más grande en la sociedad, en donde claramente contamos con competencia fuerte.
+Todas las competencias de esta asignatura serán de gran utilidad para poder darle un camino a este proyecto, ya que son las bases que estudiamos para en el futuro como profesionistas poder participar de manera activa en la creación de proyectos trascendentales de software que puedan aportar de manera adecuada a la sociedad.
