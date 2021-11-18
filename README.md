@@ -1,9 +1,6 @@
-# Proyecto-fis
+# Space project (FIS)
 This is the space where we will be modifying our software engineering fundamentals proyect.
 
-
-# 1st Space project
-This is the space where we will be modifying our software engineering fundamentals project.
 
 # File-list software project
 You can't find your files after you saved them, or you don't know how to name them, or you want to save them in a folder? So if one of these questions were true you need to use our software "File-List".
@@ -57,9 +54,11 @@ Here are the arguments of how we relate the process in a software project and wh
 https://www.youtube.com/watch?v=ea8dMza2wls&t=6s&ab_channel=Rub%C3%A9nAlvarado
 
 ========================================================================================
-# Second part of the project
+# Second part of the project (changes, advances and refinement)
 Now we're coming with the advances of the project. We modified some things in the requirements and in the process of design with add some new things.
 
 ## Refinement of the requirements
-We had to make some changes in the requirements process due to they were not very clear and also we added some new requirements.
+We had to make some changes in the requirements process due to they were not very clear and also we added some new requirements, also the user stories were improved.
+
+
 
