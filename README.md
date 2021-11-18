@@ -11,11 +11,11 @@ You can't find your files after you saved them, or you don't know how to name th
 File-List is a software students first proyect where we pretend to help you out saving your importante files in the best way possible.
 
 # The problem
-El problema detectado en la comunidad estudiantil y de oficinas es el mal manejo de los archivos previamente y posterior al guardado del mismo. Hasta el momento solo se consideraba un problema, pero no estaba formalmente documentado, por lo que decidimo elaborar una encuesta en donde visualizamos los siguientes resultaos (Los resultados completos de dicha encuesta se encuentran en la sección de resultados del cuestionario):
+The problem detected in the student and office community is the mishandling of files prior to and after their storage. Until now it was only considered a problem, but it was not formally documented, so we decided to prepare a survey where we visualized the following results (The complete results of said survey are in the results section of the questionnaire):
 
-52.3% de los encuestados define que ha tenido problemas al encontrar un documento despueés de haberlo guardado, y el 93.1% de la población encuestada menciona que conoce a alguien a la que le sucede que pierde sus documentos después de guardarlos. El 73.9% no sabe como nombrar sus archivos para guardarlos.
+52.3% of the respondents define that they have had problems finding a document after saving it, and 93.1% of the surveyed population mention that they know someone who happens to lose their documents after saving them. 73.9% do not know how to name their files to save them.
 
-Dado lo evaluado previamente en la encuesta, el 91.3% de la población considera que un programa que lo ayude con la organización de sus archivos puede ser una buena alternativa para ayudarlos a solucionar su problema o el de sus conocidos.
+Given what was previously evaluated in the survey, 91.3% of the population considers that a program that helps them with the organization of their files can be a good alternative to help them solve their problem or that of their acquaintances. 
 
 # Objetive of our software proyect
 Organize in a clear, orderly and efficient way the documents and files of a user as required by means of a software system as an extension to their file explorer.
