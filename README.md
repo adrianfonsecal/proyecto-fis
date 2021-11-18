@@ -52,10 +52,14 @@ With the help of the log, we record all the processes that occurred throughout t
 ## Subject competencies
 Here are the arguments of how we relate the process in a software project and what we learned during the virtual classes.
 * [Document](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega1/Fila5.md)
+
 ## Video
 https://www.youtube.com/watch?v=ea8dMza2wls&t=6s&ab_channel=Rub%C3%A9nAlvarado
 
-=======
-# proyecto-fis
-This is the space where we will be modifying our software engineering fundamentals proyect and the usage cases diagram
+========================================================================================
+# Second part of the project
+Now we're coming with the advances of the project. We modified some things in the requirements and in the process of design with add some new things.
+
+## Refinement of the requirements
+We had to make some changes in the requirements process due to they were not very clear and also we added some new requirements.
 
