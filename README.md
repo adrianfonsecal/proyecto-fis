@@ -81,7 +81,7 @@ With this piece of the project me make a new sense into the product. This is the
 ## Simulation of the design phase
 * [Design document](https://github.com/adrianfonsecal/proyecto-fis/blob/Miguel/tablas%20de%20dise%C3%B1o%20prototito%203.docx)
 
-* [Raw document in Adobe Xd](https://github.com/adrianfonsecal/proyecto-fis/blob/Miguel/Proyecto%20Fis%20Dic%20nuevo%20final.xd)
+* [Raw document of Adobe Xd](https://github.com/adrianfonsecal/proyecto-fis/blob/Miguel/Proyecto%20Fis%20Dic%20nuevo%20final.xd)
 
 * [Video of the simulation](https://www.youtube.com/watch?v=g4snQ3qbhds&ab_channel=MiguelAngelG%C3%B3mezHerguera)
 
