@@ -1,12 +1,3 @@
-# Space project (FIS)
-This is the space where we will be modifying our software engineering fundamentals proyect.
-
-
-# File-list software project
-You can't find your files after you saved them, or you don't know how to name them, or you want to save them in a folder? So if one of these questions were true you need to use our software "File-List".
-
-File-List is a software students first proyect where we pretend to help you out saving your importante files in the best way possible.
-
 # The problem
 The problem detected in the student and office community is the mishandling of files prior to and after their storage. Until now it was only considered a problem, but it was not formally documented, so we decided to prepare a survey where we visualized the following results (The complete results of said survey are in the results section of the questionnaire):
 
@@ -94,6 +85,13 @@ We made some new document to explain how does the requirements need to be solved
 * [Raw document of Adobe Xd](https://github.com/adrianfonsecal/proyecto-fis/blob/Miguel/Proyecto%20Fis%20Dic%20nuevo%20final.xd)
 
 * [Video of the simulation](https://www.youtube.com/watch?v=g4snQ3qbhds&ab_channel=MiguelAngelG%C3%B3mezHerguera)
+
+## Team activities
+Here the logs of the sessions are housed as well as the advances that were made. As part of this teamwork, the table is attached showing the final participation of the members for this second installment of the project's advances.
+
+* [Binnacle](https://github.com/adrianfonsecal/proyecto-fis/blob/ruben/Bit%C3%A1cora_Entrega2_FIS.docx)
+
+* [The team participation](https://github.com/adrianfonsecal/proyecto-fis/blob/ruben/Tabla%20de%20contribuci%C3%B3n%20del%20equipo.docx)
 
 ## Extras for the general presentation
 * [The PowerPoint file](https://github.com/adrianfonsecal/proyecto-fis/blob/ruben/211116_Segunda%20entrega_FIS.pptx)
