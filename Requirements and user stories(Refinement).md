@@ -30,4 +30,5 @@
 * El sistema solo aceptara archivos de Office y PDF para guardar los archivos en el ordenador.
 
 # Diagrama de casos de uso
-![Captura de pantalla (238)](https://user-images.githubusercontent.com/92123464/142356807-e9b45bbc-a258-49e1-815b-e1dd271a5c2b.png)
+
+![Captura de pantalla (1)](https://user-images.githubusercontent.com/92123464/142794677-aac2a356-927c-4d3b-81a8-aed53a7ead6c.png)
