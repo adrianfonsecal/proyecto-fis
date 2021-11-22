@@ -74,9 +74,19 @@ We had to make some changes in the requirements process due to they were not ver
 The requirements were ordered in a new document, called  prioritization of the requirements, because in the design phase we needed an inidicator that  would provide which of all the requirements are most importants for the project and should be included in the disegn document and in the first versions of the test phase.
 * [Document](https://github.com/adrianfonsecal/proyecto-fis/blob/Melhem/Lista%20de%20prioridad%20de%20requerimientos.docx)
 
+## How does the software product have to named the files?
+In this part of the design phase, we decided to create this new document to have a notion of how the software product have to named all the files that are going to be related to this SW. Here is included how is going to be named the files and the folders, to have an order in our visualization.
+* [Document](https://github.com/adrianfonsecal/proyecto-fis/blob/ruben/211104_La%20nomenclatura.docx)
+
 ## Imagotype
 With this piece of the project me make a new sense into the product. This is the image of the product.
 * [Imagotype](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega2/Imagotipo.md)
+
+## Requirements resolution mapping for the design phase 
+We made some new document to explain how does the requirements need to be solved in the design phase for later be applied in the simulation of the software in its first versions.
+* [Document 1](https://github.com/adrianfonsecal/proyecto-fis/blob/Adal/Especificacion%20de%20Casos%20de%20Uso.docx)
+
+* [Document 2](https://github.com/adrianfonsecal/proyecto-fis/blob/Melhem/Organizador%20de%20Documentos.docx)
 
 ## Simulation of the design phase
 * [Design document](https://github.com/adrianfonsecal/proyecto-fis/blob/Miguel/tablas%20de%20dise%C3%B1o%20prototito%203.docx)
