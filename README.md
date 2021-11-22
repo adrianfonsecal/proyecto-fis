@@ -67,12 +67,28 @@ Also we made changes in the project related to the product, and we explain in th
 * [Summary of the product](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega2/SummaryProduct.md)
 
 ## Refinement of the requirements, user stories and use case diagram
-We had to make some changes in the requirements process due to they were not very clear and also we added some new requirements, also the user stories were improved, so the use case diagrma change in order to be better unterstood.
+We had to make some changes in the requirements process due to they were not very clear and also we added some new requirements, also the user stories were improved, so the use case diagram change in order to be better unterstood.
 * [Document (Refinement)](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega2/Requirements%20and%20user%20stories(Refinement).md)
+
+### Requirements prioritization 
+The requirements were ordered in a new document, called  prioritization of the requirements, because in the design phase we needed an inidicator that  would provide which of all the requirements are most importants for the project and should be included in the disegn document and in the first versions of the test phase.
+* [Document](https://github.com/adrianfonsecal/proyecto-fis/blob/Melhem/Lista%20de%20prioridad%20de%20requerimientos.docx)
 
 ## Imagotype
 With this piece of the project me make a new sense into the product. This is the image of the product.
 * [Imagotype](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega2/Imagotipo.md)
+
+## Simulation of the design phase
+* [Design document](https://github.com/adrianfonsecal/proyecto-fis/blob/Miguel/tablas%20de%20dise%C3%B1o%20prototito%203.docx)
+
+* [Raw document in Adobe Xd](https://github.com/adrianfonsecal/proyecto-fis/blob/Miguel/Proyecto%20Fis%20Dic%20nuevo%20final.xd)
+
+* [Video of the simulation](https://www.youtube.com/watch?v=g4snQ3qbhds&ab_channel=MiguelAngelG%C3%B3mezHerguera)
+
+## Extras for the general presentation
+* [The PowerPoint file](https://github.com/adrianfonsecal/proyecto-fis/blob/ruben/211116_Segunda%20entrega_FIS.pptx)
+
+* [The video](https://www.youtube.com/watch?v=lqwHokGuY6Q&ab_channel=Rub%C3%A9nAlvarado)
 
 
 
