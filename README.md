@@ -57,8 +57,24 @@ https://www.youtube.com/watch?v=ea8dMza2wls&t=6s&ab_channel=Rub%C3%A9nAlvarado
 # Second part of the project (changes, advances and refinement)
 Now we're coming with the advances of the project. We modified some things in the requirements and in the process of design with add some new things.
 
-## Refinement of the requirements
-We had to make some changes in the requirements process due to they were not very clear and also we added some new requirements, also the user stories were improved.
+## Sumaries
+### Summary of the progress
+What we change in this new part of the project in explained in the next document.
+* [Summary of the progress](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega2/Summaries.md)
+
+### Summary of the product
+Also we made changes in the project related to the product, and we explain in the next document what me improve.
+* [Summary of the product](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega2/SummaryProduct.md)
+
+## Refinement of the requirements, user stories and use case diagram
+We had to make some changes in the requirements process due to they were not very clear and also we added some new requirements, also the user stories were improved, so the use case diagrma change in order to be better unterstood.
+* [Document (Refinement)](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega2/Requirements%20and%20user%20stories(Refinement).md)
+
+## Imagotype
+With this piece of the project me make a new sense into the product. This is the image of the product.
+* [Imagotype](https://github.com/adrianfonsecal/proyecto-fis/blob/Entrega2/Imagotipo.md)
+
+
 
 
 
