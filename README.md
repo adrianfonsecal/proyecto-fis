@@ -5,7 +5,7 @@ The problem detected in the student and office community is the mishandling of f
 
 Given what was previously evaluated in the survey, 91.3% of the population considers that a program that helps them with the organization of their files can be a good alternative to help them solve their problem or that of their acquaintances. 
 
-# Objetive of our software proyect
+# Objetives of the proyect
 Organize in a clear, orderly and efficient way the documents and files of a user as required by means of a software system as an extension to their file explorer.
 1. Systematize the user's document search processes through the software interface. 
 2. Safeguard user files by easily syncing with the world's most influential clouds. 
