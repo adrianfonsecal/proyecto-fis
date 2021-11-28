@@ -1,4 +1,4 @@
-# Second part of the project (changes, advances and refinement)
+# Second part
 Now we're coming with the advances of the project. We modified some things in the requirements and in the process of design with add some new things.
 
 ## Sumaries
