@@ -6,7 +6,7 @@
   2. [Evidence 2](https://www.youtube.com/watch?v=u54wW6FnFQ0&ab_channel=AdalCaamal)
   3. [Evidence 3](https://www.youtube.com/watch?v=JXVIlygD3r0&ab_channel=AdalCaamal)
 
-* Documentations of the test phase
+* [Documentations of the test phase](https://github.com/adrianfonsecal/proyecto-fis/blob/ruben/211205_La%20fase%20de%20pruebas_Documentaci%C3%B3n.pdf)
 
 * [Survey results in forms ](https://github.com/adrianfonsecal/proyecto-fis/blob/ruben/ResultadosEncuesta_EntregaFinal.pdf)
 
