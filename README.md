@@ -27,7 +27,7 @@ In order to have a better organization we decided to divide the project in piece
 ## [The second part of the project (advances and new adds)](https://github.com/adrianfonsecal/proyecto-fis/blob/EntregaFinal/Segunda%20entrega.md)
 
 ## [The third part of the project (resume of what we did)](https://github.com/adrianfonsecal/proyecto-fis/blob/EntregaFinal/EntregaFinal.md)
-
+### [The practical session](https://github.com/adrianfonsecal/proyecto-fis/blob/ruben/SesionPractica.md)
 
 
 
