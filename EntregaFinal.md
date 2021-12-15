@@ -19,3 +19,6 @@
 * [The presentation](https://github.com/adrianfonsecal/proyecto-fis/blob/ruben/211205_Software%20Development_Eq1.pdf)
 
 * [The video of the project](https://youtu.be/mZPkkeYcdyM)
+
+## [What did we learn?](https://github.com/adrianfonsecal/proyecto-fis/blob/ruben/CompetenciasYCritica.md)
+
